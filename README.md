@@ -1,6 +1,6 @@
 # Example Usage of Rx and BLoC in Flutter
 
-![Flutter Logo](https://flutter.dev/assets/flutter-lockup-4cb0ee072ab312e59784b518c3af61da70f3c26ec8d92c8b1df3456e1c6c63cb.png)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
 
 This example project demonstrates the use of Rx (via the rxdart library) and the BLoC (Business Logic Component) pattern in Flutter to manage reactive data flows and business logic in a product list application.
 
